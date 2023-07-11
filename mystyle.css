@@ -1,0 +1,40 @@
+/* h1 {
+    color: red;
+} */
+/* 
+h2 {
+    background-color: aqua;
+} */
+
+p{
+    color: brown;
+    font-size: x-large;
+}
+
+.para1 {
+
+    color: chartreuse;
+  }
+
+  #heading2 {
+    color: blue;
+  }
+
+  .row {
+    background-color: blue;
+    width: 25%;
+    height: 200px;
+    padding: 20px;
+
+
+
+  }
+  
+  .column {
+    background-color: brown;
+    width: 25%;
+    height: 100px;
+
+    
+
+  }
